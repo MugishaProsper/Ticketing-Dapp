@@ -1,10 +1,10 @@
-# 🎟️ Blockchain-Based Ticketing DApp (Ethereum + Vite + Ethers.js)
+# 🎟️ Blockchain-Based Ticketing DApp (Ethereum + NextJS + Ethers.js)
 
 A decentralized ticketing platform designed for fast, secure, and scalable event access using blockchain technology.
 
 ## 🧠 Overview
 
-This project is a **Web3 DApp** built using **Vite + React + TypeScript** on the frontend and **Ethereum smart contracts** using **Hardhat** on the backend. It allows users to **buy**, **validate**, and **transfer** tickets securely via blockchain — no centralized server needed.
+This project is a **Web3 DApp** built using **NextJS** on the frontend and **Ethereum smart contracts** using **Hardhat** on the backend. It allows users to **buy**, **validate**, and **transfer** tickets securely via blockchain — no centralized server needed.
 
 ## 🔐 Key Features
 
